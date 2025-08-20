@@ -1,7 +1,7 @@
 const rcmTech = {
     8:[{
           name: "Scales",
-          keys: ["C major", "D major", "E major", "Bb major", "Eb major", "Gb major", "C minor", "D minor", "E minor", "Bb minor", "Eb minor", "F-sharp minor"],
+          keys: ["C Major", "D Major", "E Major", "Bb Major", "Eb Major", "Gb Major", "C Harmonic Minor", "C Melodic Minor", "D Harmonic Minor", "D Melodic Minor", "E Harmonic Minor", "E Melodic Minor", "Bb Harmonic Minor", "Bb Melodic Minor", "Eb Harmonic Minor", "Eb Melodic Minor", "F-sharp Harmonic Minor", "F-sharp Melodic Minor"],
         },
         {
           name: "Formula Pattern Scale",

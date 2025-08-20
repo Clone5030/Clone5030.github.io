@@ -116,7 +116,6 @@ function shuffleArray(arr){
         var j = Math.floor(Math.random() * (i + 1));
         [copy[i], copy[j]] = [copy[j], copy[i]];
     }
-    console.log(copy);
     return copy;
 }
 
