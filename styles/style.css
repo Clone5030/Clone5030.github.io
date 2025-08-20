@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #DBE1F1;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+#dropdowns {
+    font-size: 30px;
+}
+
+button {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    min-width: 100px;
+    min-height: 50px;
+    font-size: 30px;
+}
+
+h2{
+    font-size: 40px;
+}
+
+select {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    min-width: 100px;
+    min-height: 50px;
+    font-size: 25px;
+}
